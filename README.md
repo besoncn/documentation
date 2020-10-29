@@ -1,1 +1,3 @@
-# documentation
+# maven-project
+
+Simple Maven Project
